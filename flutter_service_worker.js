@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"main.dart.js": "b4293d99840206055e8141113a6cb03b",
+const RESOURCES = {"main.dart.js": "a46bb93836a3b801ea2b509d8dcdadcc",
 "index.html": "974fb819ed8f20f42a1a728122885369",
 "/": "974fb819ed8f20f42a1a728122885369",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -25,16 +25,17 @@ const RESOURCES = {"main.dart.js": "b4293d99840206055e8141113a6cb03b",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "assets/NOTICES": "f71c19c03da9ba6a4e6bf3a01a4bf2dd",
 "assets/FontManifest.json": "1d8813bace63194d27c137db0aba6e57",
-"assets/AssetManifest.json": "5490d3f59e51ba6b7284bb18db5c099a",
+"assets/AssetManifest.json": "05bab7a512cc456871ec0f91a6afec90",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "e986ebe42ef785b27164c36a9abc7818",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
-"assets/AssetManifest.bin.json": "7563fff4a634dd4bd47a6c2fcdbbdea9",
+"assets/AssetManifest.bin.json": "378ca8d3739470c0b13ac15ead7b911a",
 "assets/assets/lottie/loading.json": "082e4487b2c9be6b2f9dd695409f61a0",
 "assets/assets/lottie/lottie1.json": "436e88256261912f1e7fb18a09d040f0",
+"assets/assets/images/w.png": "5e1b2f655d86052bca93c5d220e08de3",
 "assets/assets/fonts/poppins/Poppins-Regular.ttf": "093ee89be9ede30383f39a899c485a82",
-"assets/fonts/MaterialIcons-Regular.otf": "fd0aa04e30b2d1c0dbc6279fa65ba330",
-"assets/AssetManifest.bin": "b0f0d4083e4b6dee497c06c6ff5e545f",
-"flutter_bootstrap.js": "b5631496fdcb4286b7e1a0c33e78675c",
+"assets/fonts/MaterialIcons-Regular.otf": "b3188e0d5648d032ff43a8ac981a043b",
+"assets/AssetManifest.bin": "56d7ee3f93f19af35cc8ca1e2c1be271",
+"flutter_bootstrap.js": "fe015dc11ae76f44d4a7e1276d34e24d",
 "flutter.js": "f393d3c16b631f36852323de8e583132"};
 // The application shell files that are downloaded before a service worker can
 // start.
